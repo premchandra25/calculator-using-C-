@@ -17,4 +17,4 @@ To run the calculator app locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-  [ git clone https://github.com/yourusername/calculator-app.git](https://github.com/premchandra25/calculator-using-C-/new/main?filename=README.md)
+  https://github.com/premchandra25/calculator-using-Csharp-
